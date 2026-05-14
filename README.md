@@ -1,1 +1,3 @@
 # dsrt2026_Azka-Suryantoro_5022221032
+This is a CMOS Inverter circuit made by xschem for college task
+The transient response depends on the parameters of the DC power supply and the transistors used. The V2 supply is configured as a pulse, causing the input voltage to vary between 0 and 1.8 V; the output voltage is inverted due to the inverter’s function of inverting the input signal. The DC sweep response indicates when the inverter’s input is considered low and high. The graph shows a decrease in the output value starting at an input of 0.7V and ending at 1.1V, so it can be concluded that this CMOS inverter considers voltage values below 0.7V as logic low and voltage values above 1.1V as logic high. 
